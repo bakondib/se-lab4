@@ -1,0 +1,3 @@
+# Ha az előzőleg tüzelt tár hibát jelez, akkor nem próbál meg a másik tárból lőni a hajó
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE

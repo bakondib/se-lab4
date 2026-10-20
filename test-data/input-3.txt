@@ -1,0 +1,4 @@
+# Ha üres a soron következő tár, akkor a hajó megpróbál ugyannabból a tárból tüzelni
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

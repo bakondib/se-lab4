@@ -1,0 +1,4 @@
+# A második lövés a másodlagos tárból történjen
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
